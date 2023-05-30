@@ -1,5 +1,7 @@
 # Allure
 tests/allure-results
+simple/allure-results
+
 
 # Idea
 .idea
